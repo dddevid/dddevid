@@ -89,7 +89,7 @@ I'm a passionate developer specialized in creating security tools, web applicati
 ## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&show_icons=true" />
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ## 🎵 Currently Listening
