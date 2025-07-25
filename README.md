@@ -90,7 +90,7 @@ I'm a passionate Italian/Albanian developer specialized in creating security too
 ## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&category=programming" alt="Github Readme Daily Quotes" />
 </div>
 
 ## 🎵 Currently Listening
