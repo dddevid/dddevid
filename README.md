@@ -70,43 +70,7 @@ I'm a passionate developer specialized in creating security tools, web applicati
   <img src="https://github-profile-trophy.vercel.app/?username=dddevid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dddevid&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/dddevid/PassChecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dddevid&repo=PassChecker&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/dddevid/rFetch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dddevid&repo=rFetch&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/dddevid/WifiDeviceMapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dddevid&repo=WifiDeviceMapper&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/dddevid/YTDLPY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dddevid&repo=YTDLPY&theme=tokyonight" />
-  </a>
-</div>
-
-### 🛡️ **PassChecker** - *Security Tool*
-A lightweight web tool that checks password strength in real-time, estimates crack time, and checks for known breaches - all processed client-side for maximum security.
-
-### 🚀 **rFetch** - *System Information Tool*  
-A fast, customizable system information tool written in Rust with full iOS support and an interactive theme creator.
-
-### 🌐 **WifiDeviceMapper** - *Network Analysis*
-Visualizes devices connected to the local network through ARP scanning with Flask backend and interactive D3.js visualization.
-
-### 📹 **YTDLPY** - *Media Downloader*
-Elegant YouTube content downloader in MP4 or MP3 format with various quality options and modern interface for download monitoring.
 
 ## 🤝 Connect with me
 
@@ -125,7 +89,7 @@ Elegant YouTube content downloader in MP4 or MP3 format with various quality opt
 ## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=600&height=200" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&show_icons=true" />
 </div>
 
 ## 🎵 Currently Listening
