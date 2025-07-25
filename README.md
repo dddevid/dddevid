@@ -13,6 +13,8 @@ I'm a passionate Italian/Albanian developer specialized in creating security too
 - 👯 I'm looking to collaborate on **open source projects and security tools**
 - 💬 Ask me about **Python, Rust, Web Security, System Tools**
 - 🛡️ Passionate about **cybersecurity and network analysis**
+- 📱 **Swift** is my favourite for mobile development
+- 🐍 **Python** is my go-to for full development
 - 🇮🇹🇦🇱 Based in **Italy** with Albanian heritage
 - ⚡ Fun fact: **I've created tools that solve problems affecting thousands of users!**
 
@@ -28,10 +30,15 @@ I'm a passionate Italian/Albanian developer specialized in creating security too
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend & Systems
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python⭐-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Mobile Development
+![Swift](https://img.shields.io/badge/-Swift⭐-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Security & Tools
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
