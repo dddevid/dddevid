@@ -1,18 +1,19 @@
 # Hey there! 👋 I'm dddevid
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Security+%26+Tool+Developer;Python+%26+Rust+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Italian%2FAlbanian+Developer;Security+%26+Tool+Developer;Python+%26+Rust+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer specialized in creating security tools, web applications, and system utilities. I focus on practical solutions and optimized performance.
+I'm a passionate Italian/Albanian developer specialized in creating security tools, web applications, and system utilities. I focus on practical solutions and optimized performance.
 
 - 🔭 I'm currently working on **security tools and system utilities**
 - 🌱 I'm learning **Rust and cybersecurity technologies**
 - 👯 I'm looking to collaborate on **open source projects and security tools**
 - 💬 Ask me about **Python, Rust, Web Security, System Tools**
 - 🛡️ Passionate about **cybersecurity and network analysis**
+- 🇮🇹🇦🇱 Based in **Italy** with Albanian heritage
 - ⚡ Fun fact: **I've created tools that solve problems affecting thousands of users!**
 
 ## 🛠️ Technologies & Tools
