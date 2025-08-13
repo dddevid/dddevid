@@ -100,12 +100,6 @@ I'm a passionate Italian/Albanian developer specialized in creating security too
   <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&category=programming" alt="Github Readme Daily Quotes" />
 </div>
 
-## 🎵 Currently Listening
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=biboww3bly6ipu84737g2ygn1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4d6cae" alt="Spotify Now Playing" />
-</div>
-
 ---
 
 <div align="center">
