@@ -68,10 +68,6 @@ I'm a passionate Italian/Albanian developer specialized in creating security too
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddevid&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dddevid&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
