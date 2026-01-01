@@ -13,7 +13,7 @@ I'm a young Italian-Albanian developer passionate about creating security tools,
 - 🔭 **Currently working on**: Security tools and system utilities
 - 🌱 **Learning**: Rust, cybersecurity technologies, and advanced system programming
 - 🐍 **Primary language**: Python for full-stack development
-- 📱 **Mobile development**: Swift
+- 📱 **Mobile development**: Swift & Flutter
 - 🛡️ **Interests**: Cybersecurity, network analysis, and open-source development
 - 👯 **Open to**: Collaborating on open source projects and security tools
 
