@@ -59,12 +59,6 @@ I'm a young Italian-Albanian developer passionate about creating security tools,
 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dddevid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 ## 📫 Contact
 
 <div align="center">
