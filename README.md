@@ -60,18 +60,9 @@ I'm a young Italian-Albanian developer passionate about creating security tools,
 </div>
 
 ## 📫 Contact
-
-<div align="center">
-  <a href="https://twitter.com/ddevid_1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://github.com/dddevid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://portfolio.devid.ink" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
 
 ## 💡 Development Philosophy
 
