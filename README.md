@@ -59,11 +59,6 @@ I'm a young Italian-Albanian developer passionate about creating security tools,
 
 </div>
 
-## 📫 Contact
-  <a href="https://github.com/dddevid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
 ## 💡 Development Philosophy
 
 <div align="center">
